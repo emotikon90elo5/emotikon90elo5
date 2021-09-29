@@ -1,3 +1,3 @@
 # Emotikonowy
-### I'm backend node js  
+### I'm backend developer programing in nodejs
 [My page](https://emotikonowy.herokuapp.com)
